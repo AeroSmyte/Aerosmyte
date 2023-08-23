@@ -3,7 +3,7 @@
 ## About Me 🧙🏾‍♀️
 🖊️ I'm Lexi (she/he/they), a black, genderqueer **iOS developer** who has their bachelor's degree in **Computer Science**.
 
-📱 I'm super interested in finding silly, stupidly useful apps for myself, my friends, and people like me-- folks who love music, movies, TTRPG games, writing, and communicating and collaborating across diverse groups! 
+📱 I'm super interested in finding silly, stupidly useful apps for myself, my friends, and people like me-- a jack of all trades who loves playing music, working with their hands, watching movies, playing tabletop games, writing scripts, and communicating and collaborating across diverse groups! 
 
 ### Outside of iOS, you can find me:
 - 👾 streaming games
