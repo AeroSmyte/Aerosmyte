@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**AeroSmyte/Aerosmyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me 🧙🏾‍♀️
+🖊️ I'm Lexi (she/he/they), a black, genderqueer **iOS developer** who has their bachelor's degree in **Computer Science**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 I'm super interested in finding silly, stupidly useful apps for myself, my friends, and people like me-- folks who love music, movies, TTRPG games, writing, and communicating and collaborating across diverse groups! 
+
+### Outside of iOS, you can find me:
+- 👾 streaming games
+- 🎻 playing instruments
+- 📝 writing screenplays
+- 💪🏾 exercising
+- 🧗🏾‍♀️ rock climbing
+
+# Projects & Updates
+
+
+- 🔭 I’m currently working on **the Char App**, an ambitious character catalogue built with Swift UI for D&D.
+- 🎧 I'm currently listening to: Hadestown the Musical
+- 🌱 I’m currently learning Combine! 
+- 📫 How to reach me: alexismcqueen01 at gmail.com!
+- ⚡ Fun fact: I've met and played Magic: The Gathering with Post Malone!
+
