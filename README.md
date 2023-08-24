@@ -1,4 +1,5 @@
 
+![MyLinkedInHeader](https://github.com/AeroSmyte/Aerosmyte/assets/10874878/757d5686-1a8d-457c-8482-24c68f7ba24c)
 
 ## About Me 🧙🏾‍♀️
 🖊️ I'm Lexi (she/he/they), a black, genderqueer **iOS developer** who has their bachelor's degree in **Computer Science**.
