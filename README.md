@@ -15,10 +15,11 @@
 
 # Projects & Updates
 
-
-- 🔭 I’m currently working on **the Char App**, an ambitious character catalogue built with Swift UI for D&D.
+- 🔭 I’m currently working on **Lent iOS**, an app for lending (and borrowing) books from your friends.
 - 🎧 I'm currently listening to: Hadestown the Musical
 - 🌱 I’m currently learning Combine! 
 - 📫 How to reach me: alexismcqueen01 at gmail.com!
 - ⚡ Fun fact: I've met and played Magic: The Gathering with Post Malone!
 
+## Skills
+- 📊 SwiftData
