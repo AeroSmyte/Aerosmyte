@@ -2,7 +2,7 @@
 ![MyLinkedInHeader](https://github.com/AeroSmyte/Aerosmyte/assets/10874878/757d5686-1a8d-457c-8482-24c68f7ba24c)
 
 ## About Me 🧙🏾‍♀️
-🖊️ I'm Lexi (she/he/they), a black **iOS developer** who has their bachelor's degree in **Computer Science**.
+🖊️ I'm Lexi, a black **iOS developer** and multi-hyphenate who has their bachelor's degree in **Computer Science**.
 
 📱 I'm super interested in finding silly, stupidly useful apps for myself, my friends, and people like me-- a jack of all trades who loves playing music, working with their hands, watching movies, playing tabletop games, writing scripts, and communicating and collaborating across diverse groups! 
 
